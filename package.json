@@ -11,5 +11,8 @@
   "bugs": {
     "url": "https://github.com/giodamelio/BlueBallMachineCreator/issues"
   },
-  "homepage": "https://giodamelio.github.io/BlueBallMachineCreator"
+  "homepage": "https://giodamelio.github.io/BlueBallMachineCreator",
+  "devDependencies": {
+    "webpack": "^1.6.0"
+  }
 }
