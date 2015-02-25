@@ -1,0 +1,15 @@
+{
+  "name": "BlueBallMachineCreator",
+  "version": "0.1.0",
+  "description": "",
+  "author": "Gio d'Amelio",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/giodamelio/BlueBallMachineCreator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/giodamelio/BlueBallMachineCreator/issues"
+  },
+  "homepage": "https://giodamelio.github.io/BlueBallMachineCreator"
+}
